@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProductManagement/Бизнес с нуля. Метод Lean Startup/TrySync.md",
+                "file": "ProductManagement/Бизнес с нуля. Метод Lean Startup/Annotation/TryToAutomatic sync.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProductManagement/Бизнес с нуля. Метод Lean Startup/TrySync.md",
+                "file": "ProductManagement/Бизнес с нуля. Метод Lean Startup/Annotation/TryToAutomatic sync.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProductManagement/Бизнес с нуля. Метод Lean Startup/TrySync.md",
+                "file": "ProductManagement/Бизнес с нуля. Метод Lean Startup/Annotation/TryToAutomatic sync.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProductManagement/Бизнес с нуля. Метод Lean Startup/TrySync.md"
+                "file": "ProductManagement/Бизнес с нуля. Метод Lean Startup/Annotation/TryToAutomatic sync.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   "active": "9511bf12b7f62c9c",
   "lastOpenFiles": [
     "ProductManagement/Бизнес с нуля. Метод Lean Startup/TrySync.md",
+    "ProductManagement/Бизнес с нуля. Метод Lean Startup/Annotation/TryToAutomatic sync.md",
+    "ProductManagement/Бизнес с нуля. Метод Lean Startup/Annotation",
     "ProductManagement/Бизнес с нуля. Метод Lean Startup",
     "Untitled",
     "ProductManagement"
