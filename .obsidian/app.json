@@ -1,1 +1,7 @@
-{}
+{
+  "attachmentFolderPath": "./Contents_",
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "newFileLocation": "current"
+}
