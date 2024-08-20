@@ -20,31 +20,31 @@
             }
           },
           {
-            "id": "6e3c9094c23eda82",
+            "id": "cafca3cf851b4f5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProductManagement/Бизнес с нуля. Метод Lean Startup/Книга/Часть3. Набираем скорость.md",
+                "file": "ProductManagement/Бизнес с нуля. Метод Lean Startup/Книга/Часть 2. Садимся за руль.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cafca3cf851b4f5e",
+            "id": "6e3c9094c23eda82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProductManagement/Бизнес с нуля. Метод Lean Startup/Книга/Часть2. Садимся за руль.md",
+                "file": "ProductManagement/Бизнес с нуля. Метод Lean Startup/Книга/Часть 3. Набираем скорость.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProductManagement/Бизнес с нуля. Метод Lean Startup/Книга/Часть3. Набираем скорость.md",
+                "file": "ProductManagement/Бизнес с нуля. Метод Lean Startup/Книга/Часть 3. Набираем скорость.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProductManagement/Бизнес с нуля. Метод Lean Startup/Книга/Часть3. Набираем скорость.md",
+                "file": "ProductManagement/Бизнес с нуля. Метод Lean Startup/Книга/Часть 3. Набираем скорость.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProductManagement/Бизнес с нуля. Метод Lean Startup/Книга/Часть3. Набираем скорость.md"
+                "file": "ProductManagement/Бизнес с нуля. Метод Lean Startup/Книга/Часть 3. Набираем скорость.md"
               }
             }
           }
@@ -173,11 +173,12 @@
   },
   "active": "6e3c9094c23eda82",
   "lastOpenFiles": [
-    "ProductManagement/Бизнес с нуля. Метод Lean Startup/Книга/Часть2. Садимся за руль.md",
+    "ProductManagement/Бизнес с нуля. Метод Lean Startup/Книга/Часть 2. Садимся за руль.md",
+    "ProductManagement/Бизнес с нуля. Метод Lean Startup/Книга/Часть 3. Набираем скорость.md",
+    "ProductManagement/Бизнес с нуля. Метод Lean Startup/Книга/Contents_/Pasted image 20240816112806.png",
+    "ProductManagement/Бизнес с нуля. Метод Lean Startup/Книга/Часть 1. Видение.md",
     "ProductManagement/Бизнес с нуля. Метод Lean Startup/Книга/Contents_/Pasted image 20240811142826.png",
     "ProductManagement/Бизнес с нуля. Метод Lean Startup/Книга/Contents_/Pasted image 20240811144127.png",
-    "ProductManagement/Бизнес с нуля. Метод Lean Startup/Книга/Часть3. Набираем скорость.md",
-    "ProductManagement/Бизнес с нуля. Метод Lean Startup/Книга/Часть1. Видение.md",
     "ProductManagement/Бизнес с нуля. Метод Lean Startup/Прыжки веры.md",
     "ProductManagement/Бизнес с нуля. Метод Lean Startup/Книга/Содержание.md",
     "ProductManagement/Бизнес с нуля. Метод Lean Startup/Пять принципов.md",
