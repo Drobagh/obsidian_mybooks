@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProductManagement/Спроси маму Как общаться с клиентами и подтвердить правоту своей бизнес-идеи, если все кругом врут/Конспект Тинькофф.md",
+                "file": "ProductManagement/Спроси маму Как общаться с клиентами и подтвердить правоту своей бизнес-идеи, если все кругом врут/Книга/Глава 1. Тест для мамы.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,11 +48,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "пивот",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ProductManagement/Спроси маму Как общаться с клиентами и подтвердить правоту своей бизнес-идеи, если все кругом врут/Книга/Глава 1. Тест для мамы.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ProductManagement/Спроси маму Как общаться с клиентами и подтвердить правоту своей бизнес-идеи, если все кругом врут/Книга/Глава 1. Тест для мамы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NES/Lesson1.md"
+                "file": "ProductManagement/Спроси маму Как общаться с клиентами и подтвердить правоту своей бизнес-идеи, если все кругом врут/Книга/Глава 1. Тест для мамы.md"
               }
             }
           }
@@ -145,19 +147,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "126b762f5afb4054",
+  "active": "0be116582597c457",
   "lastOpenFiles": [
-    "NES/Contents_/Снимок экрана 2024-09-05 в 19.57.25.png",
-    "NES/Lesson1.md",
-    "NES/Contents_/Снимок экрана 2024-09-05 в 21.44.55.png",
-    "NES/Contents_",
-    "NES/MiF",
-    "ProductManagement/Спроси маму Как общаться с клиентами и подтвердить правоту своей бизнес-идеи, если все кругом врут/Книга/Глава1.md",
-    "NES",
-    "ProductManagement/Спроси маму Как общаться с клиентами и подтвердить правоту своей бизнес-идеи, если все кругом врут/Конспект Тинькофф.md",
     "ProductManagement/Спроси маму Как общаться с клиентами и подтвердить правоту своей бизнес-идеи, если все кругом врут/Книга/Содержание.md",
     "ProductManagement/Бизнес с нуля. Метод Lean Startup/Книга/Часть 1. Видение.md",
     "ProductManagement/Бизнес с нуля. Метод Lean Startup/Книга/Часть 2. Садимся за руль.md",
+    "ProductManagement/Спроси маму Как общаться с клиентами и подтвердить правоту своей бизнес-идеи, если все кругом врут/Книга/Глава 1. Тест для мамы.md",
+    "NES/Lesson1.md",
+    "NES/Contents_/Снимок экрана 2024-09-05 в 19.57.25.png",
+    "NES/Contents_/Снимок экрана 2024-09-05 в 21.44.55.png",
+    "NES/Contents_",
+    "NES/MiF",
+    "NES",
+    "ProductManagement/Спроси маму Как общаться с клиентами и подтвердить правоту своей бизнес-идеи, если все кругом врут/Конспект Тинькофф.md",
     "ProductManagement/Бизнес с нуля. Метод Lean Startup/Книга/Содержание.md",
     "ProductManagement/Бизнес с нуля. Метод Lean Startup/Шесть принципов.md",
     "ProductManagement/Спроси маму Как общаться с клиентами и подтвердить правоту своей бизнес-идеи, если все кругом врут/Книга/Untitled",
